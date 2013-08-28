@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="230.334px" height="60px" viewBox="0 0 230.334 60" enable-background="new 0 0 230.334 60" xml:space="preserve">
+<g>
+	<polygon fill="#0B86C3" points="4.053,17.05 4.053,42.951 25.929,55.848 47.804,42.951 47.804,17.05 25.929,4.152 	"/>
+	<path fill="#FFFFFF" d="M25.929,0.91L1.26,15.455v29.09L25.929,59.09l24.668-14.545v-29.09L25.929,0.91z M47.804,42.951
+		L25.929,55.848L4.053,42.951V17.05L25.929,4.152L47.804,17.05V42.951z"/>
+</g>
+<g>
+	<rect x="14.405" y="17.211" fill="#FFFFFF" width="22.689" height="4.476"/>
+	<rect x="14.405" y="24.245" fill="#FFFFFF" width="22.689" height="4.476"/>
+	<rect x="14.405" y="31.278" fill="#FFFFFF" width="22.689" height="4.477"/>
+	<rect x="14.405" y="38.311" fill="#FFFFFF" width="22.689" height="4.479"/>
+</g>
+<g>
+	
+		<text transform="matrix(1 0 0 1 55.6416 44.9961)" fill="#FFFFFF" font-family="'AgencyFB-Bold'" font-size="39.31" letter-spacing="2">TIER LEVEL</text>
+</g>
+<g>
+	<polygon fill="#0B86C3" points="4.053,17.051 4.053,42.949 25.928,55.848 47.803,42.949 47.803,17.051 25.928,4.152 	"/>
+	<g>
+		<path fill="#076695" d="M27.204,5.109l9.28,5.472c0.476-0.803,0.984-1.584,1.523-2.343l-10.803-6.37L2.536,16.412v27.791
+			c0.824,0.559,1.621,1.156,2.392,1.784c0.292-0.6,0.596-1.193,0.924-1.772l-0.523-0.309V18.007L27.204,5.109z"/>
+		<path fill="#FFFFFF" d="M25.928,0.91L1.26,15.455v29.09L25.928,59.09l24.668-14.545v-29.09L25.928,0.91z M47.803,42.949
+			L25.928,55.848L4.053,42.949V17.051L25.928,4.152l21.875,12.899V42.949z"/>
+		<g>
+			<g>
+				<rect x="14.14" y="17.106" fill="#076695" width="24.108" height="4.905"/>
+				<rect x="14.14" y="24.814" fill="#076695" width="24.108" height="4.905"/>
+				<rect x="14.14" y="32.523" fill="#076695" width="24.108" height="4.905"/>
+				<rect x="14.14" y="40.23" fill="#076695" width="24.108" height="4.906"/>
+			</g>
+			<g>
+				<rect x="14.292" y="16.194" fill="#FFFFFF" width="23.272" height="4.905"/>
+				<rect x="14.292" y="23.902" fill="#FFFFFF" width="23.272" height="4.905"/>
+				<rect x="14.292" y="31.611" fill="#FFFFFF" width="23.272" height="4.904"/>
+				<rect x="14.292" y="39.318" fill="#FFFFFF" width="23.272" height="4.906"/>
+			</g>
+		</g>
+		<polygon opacity="0.2" fill="#FFFFFF" points="1.26,44.545 50.596,15.455 25.928,0.91 1.26,15.455 		"/>
+	</g>
+</g>
+</svg>
